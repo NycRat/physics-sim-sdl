@@ -1,0 +1,6 @@
+---
+Standard: c++17
+IndentWidth: 2
+BraceWrapping: {}
+BreakBeforeBraces: Allman
+NamespaceIndentation: All
