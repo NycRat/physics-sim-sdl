@@ -1,0 +1,12 @@
+#pragma once
+
+#define WINDOW_HEIGHT 1000
+#define WINDOW_WIDTH 1500
+#define FPS_CAP 10000.f
+
+#define TARGET_X WINDOW_WIDTH
+
+#define GRAVITY 100.f
+#define PLAYER_SPEED 500.f
+#define PROJECTILE_SPEED 2.0f
+#define PROJECTILE_SIZE 5
